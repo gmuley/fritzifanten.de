@@ -13,6 +13,7 @@
 		}
 	},
 	"require": {
+		"georgringer/news": "^9.1",
 		"helhum/typo3-console": "^6.0.0",
 		"typo3/cms-about": "^10.4",
 		"typo3/cms-backend": "^10.4",
